@@ -1,0 +1,135 @@
+ .one{
+     background-color: rgb(240, 206, 53);
+     color: black;
+     text-align: center;
+     font-family:cursive;
+ }
+ body{
+    
+    background-color: aliceblue;
+    background-size: cover;
+    height: 100px;
+ }
+ .one:hover{
+             color: whitesmoke;
+             cursor: pointer;
+ }
+ *{
+    padding: 10px;
+   
+      
+ }
+ .Q:hover{
+        color:whitesmoke;
+        cursor: pointer;
+       
+ }
+ .W:hover{
+    color:whitesmoke;
+    cursor: pointer;
+   
+}
+.E:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+ .Q{
+    padding: 20px;
+    background-color: rgb(240, 206, 53);
+    border-color: black;
+    border-style: solid;
+    border:10px;
+    display: inline;
+    margin: white;
+    margin: 20px;
+    border-radius: 15px;
+
+ }
+ .W{
+    padding: 20px;
+    background-color: rgb(240, 206, 53);
+    border-color: black;
+    border-style: solid;
+    border:10px;
+    display: inline;
+    margin: white;
+    margin: 20px;
+    border-radius: 15px;
+ }
+ .E{
+    padding: 20px;
+    background-color: rgb(240, 206, 53);
+    border-color: black;
+    border-style: solid;
+    border:10px;
+    display: inline;
+    margin: white;
+    margin: 20px;
+    border-radius: 15px;
+ }
+ .one1{
+      margin-top: 30px;
+      margin-bottom: 20px;
+ }
+ .p1{
+   padding: 30px;
+   margin: auto;
+   border: grey;
+   border-style: solid;
+   border-radius: 8px;
+   width:250px;
+   height:fit-content;
+   display: inline-block;
+   text-align:center;
+   background-color:rgb(240, 206, 53);
+
+ }
+ .p2{
+   padding: 30px;
+   margin:auto;
+   border: grey;
+   border-style: solid;
+   border-radius: 8px;
+   width:250px;
+   height:fit-content;
+   display: inline-block;
+   text-align:center;
+   background-color: rgb(240, 206, 53);
+ }
+ .p3{
+   padding: 30px;
+   margin: auto;
+   border: grey;
+   border-style: solid;
+   border-radius: 8px;
+   width:250px;
+   height:fit-content;
+   display: inline-block;
+   text-align:center;
+   background-color: rgb(240, 206, 53);
+ }
+ .col{
+   background-color: rgb(240, 206, 53);
+   padding: 20px;
+   width: fit-content;
+   height: fit-content;
+ }
+ .iee{
+   background-color: black;
+   color:white;
+   border-color: black;
+   border-style: solid;
+   border:30px;
+   text-align: center;
+
+ }
+ 
+ .h1:hover{
+   color: aliceblue;
+   cursor: pointer;
+ }
+ .comfort{
+   width: 584px;
+   height:241.66px;
+   
+ }
